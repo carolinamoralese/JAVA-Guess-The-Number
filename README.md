@@ -2,14 +2,15 @@
 
 En la actualidad, Java es uno de los lenguajes de programación más utilizados en el mundo. A pesar de la diversidad de plataformas y herramientas disponibles, es fundamental tener una base sólida en los conceptos fundamentales de Java y en la programación orientada a objetos (OOP). El objetivo de este proyecto es introducirte al mundo de Java a través de un juego simple y divertido.
 
+## Demo
+
+https://www.loom.com/share/530eb75460eb458f8317539d35679554?sid=2997446a-98da-4aa8-a1d0-b772618f41d0
+
+
 ## Resumen del Proyecto
 
 **Guess The Number** es un juego interactivo que se desarrolla en el terminal, donde la jugadora y el ordenador se turnan para intentar adivinar un número aleatorio entre 1 y 100. Deben tener en cuenta la tentativa anterior, si fue "muy alta" o "muy baja".
 
-
-## Demo
-
-https://github.com/carolinamoralese/JAVA-Guess-The-Number/blob/7c116aa11e0603fa272fbaebbc5b7794dbfc2b34/grabacion-de-pantalla-2024-02-26-a-la-s-102903-p-m_8pP5aVUm.mp4
 
 
 ## Objetivos de Aprendizaje
